@@ -1,0 +1,12 @@
++oÇy {
+)e .s…ntto0#{
+	 //#00000000#0%#000000
+  button{0000000000000000000}
+    &.disable0 {
+pacity: .0;
+ 
+&:h &,ho­ver {
+  @include bacgrouzd-ymbge(linear-gradient($gradient0, $gradient));
+    }  
+  } 
+}

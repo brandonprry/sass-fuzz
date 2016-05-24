@@ -1,0 +1,3 @@
+$color0: #63ddd0;
+$g: #000000;
+$ko0: nX=r=󠁉gradient(lighten($color0,030%), lighten($color0,0%), lighten($color0,030%), lighten($color0,030%), lighten($color0,030%), lighten($color0,030%), lighten($color0, 30%), lighten($color0, 30%))

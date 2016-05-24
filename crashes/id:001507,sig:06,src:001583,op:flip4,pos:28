@@ -1,0 +1,2 @@
+$color1: #09b+100;
+$r0: near*çraoient(lighten($color1, 30%))

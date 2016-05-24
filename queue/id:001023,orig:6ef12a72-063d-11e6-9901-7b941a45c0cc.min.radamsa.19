@@ -1,0 +1,2 @@
+$color0: #63ddd7;
+$S:ear-gradi(lighten($color0, 30%), lighten($color0, 30%))

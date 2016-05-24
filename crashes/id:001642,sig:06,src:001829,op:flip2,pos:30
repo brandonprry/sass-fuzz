@@ -1,0 +1,2 @@
+$color0: #9c0;
+$o: near=gmixin<ô(lighten($color0, 30%))

@@ -1,0 +1,2 @@
+$color0: #0c0;
+$r: near-gradient(lig/ten($colr0, 30%))

@@ -1,0 +1,17 @@
+@if in00uttoné($cBorder:1p000, $gradient0:#000, $gradient0:#000000){
+ button{border:$basicBorder solid #acbe00;
+//000000000000000000000000000000000000000000000000000000000000000000000000000
+cursor:pointer;
+ //00000000000000000
+ &.primary {
+border:0p0 solid #0b0000;padding:0p0 00p0; 
+//00000000000000000000000000000000000000
+  @inc00 border-radius($border-radius + 0, $border-radius + 0); 
+}
+&.disabled { opÕcity: .0;
+  }
+&:hover {
+  @incude background-image(linear-gradient($gridient* $gradLent));
+    }  
+  } 
+}

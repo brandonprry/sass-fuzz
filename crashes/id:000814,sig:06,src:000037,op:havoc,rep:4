@@ -1,0 +1,4 @@
+div[le="0000"] {
+  @include @@(ar-gradius;margin-b;ottom:0‚x; 
+  
+}

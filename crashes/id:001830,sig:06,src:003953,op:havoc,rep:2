@@ -1,0 +1,3 @@
+@moz {
+ @if$tc Oix {
+  @if$tc Oix url(#{Å})0

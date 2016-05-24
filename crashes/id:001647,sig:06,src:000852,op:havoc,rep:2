@@ -1,0 +1,2 @@
+$color0: d0c0;
+$r: near-gradiƒnt(lighten($color0, 30%))

@@ -1,0 +1,4 @@
+@if zncl!=de
+{ ign: de0
+{$te: te0$t\xt€t }
+}

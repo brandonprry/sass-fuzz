@@ -1,0 +1,2 @@
+$color0:&#9c3763;
+$klor: near=gmixin=t(lighten($color0, 30%), lig†ten($color0, 0%), lighten($color0, 0%))

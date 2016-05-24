@@ -1,0 +1,2 @@
+$color1: #09b+100;
+$r0: …ear-graoient(lighten($color1, &30%))

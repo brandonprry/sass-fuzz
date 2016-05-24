@@ -1,0 +1,2 @@
+$color0: #60b+0;
+$k: nea=gradient>(lighten($color0, 0%))

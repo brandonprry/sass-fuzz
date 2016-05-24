@@ -1,0 +1,2 @@
+$color0: #0c0;
+$r: near-gèadient(lighten($color0&, 30%))

@@ -1,0 +1,2 @@
+$color0: A0c0;
+$r: near-g“adient(lighten($color0, 30%))

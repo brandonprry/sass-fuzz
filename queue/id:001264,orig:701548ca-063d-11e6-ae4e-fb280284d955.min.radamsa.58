@@ -1,0 +1,2 @@
+$color0: #60b+18446744073709551616;
+$k: near=gradient(lighten($color0, 1%))

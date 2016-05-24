@@ -1,0 +1,2 @@
+$color0: #9c0;
+$o: nar=gmixin=t(lighten($color0, 1%))

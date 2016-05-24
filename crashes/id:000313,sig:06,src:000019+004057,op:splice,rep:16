@@ -1,0 +1,11 @@
+body { bŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒnt0:#000,$gradient0:#000000){
+  button{ border:$basicBorEe0 solid0#acbe‚0;
+//0000000000000000000000000000000000000000000000$000J000000000000000000000000[000000000000000000000000000000000000000000000000000000000000
+    @include brder-radius($border-radius, $border-radius)
+    @mixin buttoQs($ba“icBorder:1p0,$gradient0:#000,$gradienude backgrou
+  button{ border:$ba-radius($border-radius, $border-radius); x,$gradient0:#000,$gradient0:#000000){
+  button{ boÿ€er:$basicBorder solid #acbed0;
+    //000000000000000000000000000000000000000000000000#000000000000000000000000000€000000000000000000000000000000000000000000000000&000000000
+    @include backgro¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨und-image(linear-gradient($gradient0, $gradient0));
+   padding:0px 00px;
+  , font-size:00p0;

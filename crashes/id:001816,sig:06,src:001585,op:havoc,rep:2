@@ -1,0 +1,2 @@
+$color0: +000000;
+$k: neê0=gradient(lighten($color0, 0700%))

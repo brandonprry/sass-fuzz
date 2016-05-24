@@ -1,0 +1,2 @@
+$color0: #€ÿÿÿ0;
+$k: near=gradient(lighten($color0, 1€))

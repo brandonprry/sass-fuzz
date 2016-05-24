@@ -1,0 +1,2 @@
+$color0:mixin #0c0;
+$r: near-Êradient(lighten($color0, 30%))

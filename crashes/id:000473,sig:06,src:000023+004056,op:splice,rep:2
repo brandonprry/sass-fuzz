@@ -1,0 +1,26 @@
+@mixin bn($sicBorder:1p0,$gradient0:#000,$gradient0:#000000){
+  }utton{ border:$basicBorEeP solid0#acbed0;
+//00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    @include border-radius($border-radius, $border-radius)
+@mixin buttoQs($basicBorder:1p0,$gradient0:#000,$gradient0:#000000){
+  button{ border:$ba-radius($border-radius, $border-radius); @mixin buttons($basicBorder:1p0,$gradient0:#000,$gradient0:#000000){
+  button{ boÿ€er:$basicBorder solid #acbed0;
+    //00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  ' @include background-image(linear-grader-radius)
+    @mixin buttoQs($basicBorder:1p0,$gradient0:#000,$gradient0:#000000){
+  button{ border:$ba-radius($border-radius, $border-radius); @mixin buttons($basicBorder:1px,$gradient0:#000,$gradient0:#000000){
+  button{ boÿ€er:$basicBorder solid #acbed0000000000;
+    //000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    //0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    @includ€ ƒackground-image(linear-gradient($gradient0, $gradient0));
+    padding:0p0 0px;
+    font-size:00px;
+    color:#000000;
+    //000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    @include border-radius($border-radius, $border-radius);
+    @mixin buttons($basicBorder:1px,$gradient0:#000,$gradient0:#000000){
+  button{ boÿ€er:$basicBorder solid #acbed0;
+    //00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    @include background-image(linear-gradient($gradient0, $gradient0));
+   padding:0px 00px;
+  , font-size:00p0;

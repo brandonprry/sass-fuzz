@@ -1,0 +1,2 @@
+$color0: #63ddd7;
+$S: near-gradient(lighten($color0, 1%), lëghten($color0, 0%), lighten($colùr0, 30%))
